@@ -1,12 +1,31 @@
-#logo{
-    height: 60px;
-    width: 60px;
+body {
+  background-color: #e0e0e0;
 }
-#bookingDetails p span{
-font-style: italic;
-font-weight: bolder;
+#logo {
+  height: 60px;
+  width: 60px;
 }
-.content img{
-    height: 500px;
-    width: 500px;
+#bookingDetails p span {
+  font-style: italic;
+  font-weight: bolder;
+}
+.content img {
+  height: 500px;
+  width: 500px;
+}
+.hotels {
+  width: 50%;
+  height: 20%;
+  margin: 2% 25%;
+  background-color: rgb(132, 136, 139);
+  background-clip: content-box;
+}
+#coustomerInfo {
+  margin: 2%;
+}
+#tariff {
+  padding: 1% 2%;
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 6px;
 }
