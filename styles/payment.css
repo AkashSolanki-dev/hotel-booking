@@ -1,8 +1,12 @@
 #logo{
-    height: 200px;
-    width: 150px;
+    height: 60px;
+    width: 60px;
 }
 #bookingDetails p span{
 font-style: italic;
 font-weight: bolder;
+}
+.content img{
+    height: 500px;
+    width: 500px;
 }
