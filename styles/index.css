@@ -1,9 +1,20 @@
-
+body{
+    background-color: #e0e0e0;
+}
 #logo{
     height: 60px;
     width: 60px;
 }
 .city{
+    padding: 4%;
     height: 150px;
     width: 150px;
+    border-radius: 30%;
+}
+#search{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg');
+    background-size: cover;
+    height: 532px;
+    background-repeat: no-repeat;
+    background-position: center;
 }

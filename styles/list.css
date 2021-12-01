@@ -6,3 +6,12 @@
     height: 250px;
     width: 250px;
 }
+body{
+    background-color: #e0e0e0;
+}
+.hotels{
+    width: 40%;
+    padding: 2%;
+    background-color: rgb(132,136,139);
+    background-clip: content-box;
+}

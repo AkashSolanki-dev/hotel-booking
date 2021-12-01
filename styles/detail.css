@@ -1,3 +1,6 @@
+body{
+    background-color: #e0e0e0;
+}
 #logo{
     height: 60px;
     width: 60px;
@@ -11,4 +14,10 @@
 .content img{
     height: 500px;
     width: 500px;
+}
+.content{
+    margin: 2% 4% 0 4%;
+}
+#aboutHotel{
+    margin: 1% 0 2%;
 }
